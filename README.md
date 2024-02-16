@@ -12,3 +12,6 @@ From New Branch
 And another one
 
 And more
+
+
+Проверка слияния с мейн веткой
